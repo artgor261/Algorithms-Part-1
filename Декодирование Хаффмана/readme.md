@@ -14,6 +14,8 @@ a: 0
 
 0
 
+***
+
 **Sample Output 1:**
 
 a
