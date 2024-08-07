@@ -8,7 +8,7 @@
 
   ***
 
-  **Sample Input:**
+**Sample Input:**
 
 6
 
